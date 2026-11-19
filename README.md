@@ -206,7 +206,7 @@ git clone https://github.com/yanakapardede/apotek-digital-pengingat-obat.git
 Masuk ke direktori proyek:
 
 ```bash
-cd sahabat-kesehatan-digital
+cd apotek-digital-pengingat-obat
 ```
 
 ### 2. Membuat Virtual Environment
